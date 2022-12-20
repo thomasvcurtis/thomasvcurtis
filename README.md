@@ -2,7 +2,7 @@
 I am currently studying software engineering at Bowling Green State University with a minor in digital arts. I am interesting in developing back-end systems. I like to learn about software design patterns and architectures.
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thomasvcurtis/) 
 
 # 💻 Tech Stack:
@@ -10,8 +10,5 @@ I am currently studying software engineering at Bowling Green State University w
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
