@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying software engineering at Bowling Green State University with a minor in digital arts. I am interesting in developing back-end systems. I like to learn about software design patterns and architectures.
+I am currently studying software engineering at Bowling Green State University. I am interesting in developing back-end systems. I like to learn about software design patterns and architectures.
 
 
 # 🌐 Socials:
