@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a full-stack software developer
+
+To be written
 
 
 ## 🌐 Socials:
