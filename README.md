@@ -2,7 +2,7 @@
 I specialize in back-end software engineering and have an interest in data science. I have a Bachelor of Science in Software Engineering<br>
 
 
-## 🌐 Socials:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasvcurtis) 
 
 # 💻 Tech Stack:
