@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Thomas Curtis. I specialize in back-end software engineering and have an interest in data science. I have a Bachelor of Science in Software Engineering<br>
+I specialize in back-end software engineering and have an interest in data science. I have a Bachelor of Science in Software Engineering<br>
 
 
 ## 🌐 Socials:
