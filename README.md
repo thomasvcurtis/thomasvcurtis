@@ -1,5 +1,5 @@
 # 💫 About Me:
-I focus in back-end software engineering and have an interest in data science. I have a Bachelor of Science in Software Engineering<br>
+I'm a recent graduate with a B.S. in Software Engineering, equipped with a year of hands-on experience in the field. My passion lies in working with data, and I constantly strive to expand my knowledge through proactive self-learning and project-based learning<br>
 
 
 # 🌐 LinkedIn:
