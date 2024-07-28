@@ -5,7 +5,7 @@ I'm a recent graduate with a B.S. in Software Engineering, equipped with a year 
 ### 🌐 LinkedIn
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasvcurtis) 
 
-## Active Project
+## Active Projects
 - ### Coffee Shop Data Analysis <br>
   A personal project to enhance my understanding of the data science life cycle is to analyze the past year's sales data and website traffic data of my local coffee shop
 
