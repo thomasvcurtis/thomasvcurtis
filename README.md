@@ -1,6 +1,4 @@
-# < Hello, There! /> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=25&pause=1000&color=524765&width=500&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+# < Hello, There /> 
 
 ## 🧰 Tech Toolkit
 
