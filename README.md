@@ -4,7 +4,7 @@
 
 ---
 
-###   How to reach me
+### How to reach me
 <p align="left">
   <a href="https://www.linkedin.com/in/thomasvcurtis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:thomascurtisengineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -53,23 +53,8 @@
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </p>
 
-
-<table>
-<tr>
-<td>
-
-### 📊 GitHub Stats  
+### GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvcurtis&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</td>
-<td>
-
-### ✍️ Random Dev Quote  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</td>
-</tr>
-</table>
 
 
 [![](https://visitcount.itsvg.in/api?id=thomasvcurtis&icon=0&color=12)](https://visitcount.itsvg.in)
