@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I a currently a software engineering looking to become a data engineer</p>
+<p align="left">I a currently a professional software engineering</p>
 
 ###
 
