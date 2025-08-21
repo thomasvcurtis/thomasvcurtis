@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I a currently a professional software engineering</p>
+<p align="left">A professional software engineering</p>
 
 ###
 
